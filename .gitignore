@@ -1,0 +1,16 @@
+﻿Thumbs.db
+bin
+obj
+.vs
+*.suo
+*.sdf
+*.cache
+*.psess
+*.vsp
+*.tmp
+*.lic
+*.pubxml.user
+*.csproj.user
+packages
+*-cache/
+*-SetupFiles/
